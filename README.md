@@ -23,7 +23,7 @@ Combining necessary pieces of data into one table by joining multiple interrelat
 https://github.com/maiiasleptcova/SQL_codes/blob/main/SpatialJoinLoop.sql
 
 Setting up a loop where each iteration aims to find all the geographies within a given polygon.
-Practically, I am trying to find all the leasehold polygons inside a freehold polygons, i.e. 
+Practically, I am trying to find all the leasehold polygons inside a freehold polygon, i.e. 
 I am trying to group tenants into their respective buildings via spatial join.
 
 4. TenancyData
